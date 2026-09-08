@@ -1,0 +1,4 @@
+# The public ledger is append-only and complete: nothing is ignored,
+# nothing is deleted. This file exists only to keep tooling temp files
+# (.*.tmp-*) out of history.
+.*.tmp-*
